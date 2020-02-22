@@ -18,7 +18,7 @@ Introducción al control de versiones git
 
 ## Diapositivas
 
-![diapositivas](etc/cursillo-git.pdf)
+[![diapositivas](etc/cursillo-git.png)](etc/cursillo-git.pdf)
 
 ## Tutorial del curso
 
