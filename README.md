@@ -19,3 +19,18 @@ Introducción al control de versiones git
 ## Diapositivas
 
 ![diapositivas](etc/cursillo-git.pdf)
+
+## Tutorial del curso
+
+En este repositorio se puede seguir el tutorial sobre git, commits, log, branches:
+
+https://github.com/makersasturias/cursillo-git
+
+En esta grabación se muestra como clonar el repositorio para empezar a colaborar
+
+[![grabación terminal](etc/asciinema-clonar.png)](https://asciinema.org/a/F7RXyZT0DU9GOjJITVNn7Nz2b)
+
+Este es el repositorio con ejemplos de Pull Request:
+
+https://github.com/makersasturias/makersasturias-git/pulls
+
