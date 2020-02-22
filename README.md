@@ -16,4 +16,6 @@ Introducción al control de versiones git
 - [Mezclar cambios](merge.md)
 - [Reescribir la historia: Hacer rebase](rebase.md)
 
+## Diapositivas
 
+![diapositivas](etc/cursillo-git.png)
